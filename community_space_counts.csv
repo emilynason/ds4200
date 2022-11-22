@@ -1,0 +1,55 @@
+,TYPE,NEIGHBORHOOD,AMOUNT
+0,Community Center,East Boston,3
+1,Community Center,Charlestown,3
+2,Community Center,Boston,4
+3,Community Center,South Boston,3
+4,Community Center,Roxbury,6
+5,Community Center,Jamaica Plain,2
+6,Community Center,Dorchester,4
+7,Community Center,Mattapan,3
+8,Community Center,Hyde Park,1
+9,Community Center,Roslindale,3
+10,Community Center,West Roxbury,3
+11,Community Center,Allston,1
+12,Community Center,South End,0
+13,Community Center,Brighton,0
+14,Community Center,Chinatown,0
+15,Community Center,Mission Hill,0
+16,Community Center,Beacon Hill,0
+17,Community Center,North End,0
+18,School,East Boston,3
+19,School,Charlestown,1
+20,School,Boston,0
+21,School,South Boston,2
+22,School,Roxbury,6
+23,School,Jamaica Plain,7
+24,School,Dorchester,9
+25,School,Mattapan,4
+26,School,Hyde Park,3
+27,School,Roslindale,2
+28,School,West Roxbury,4
+29,School,Allston,3
+30,School,South End,1
+31,School,Brighton,1
+32,School,Chinatown,1
+33,School,Mission Hill,1
+34,School,Beacon Hill,0
+35,School,North End,0
+36,Park,East Boston,7
+37,Park,Charlestown,0
+38,Park,Boston,62
+39,Park,South Boston,4
+40,Park,Roxbury,15
+41,Park,Jamaica Plain,0
+42,Park,Dorchester,19
+43,Park,Mattapan,0
+44,Park,Hyde Park,4
+45,Park,Roslindale,2
+46,Park,West Roxbury,3
+47,Park,Allston,4
+48,Park,South End,0
+49,Park,Brighton,8
+50,Park,Chinatown,0
+51,Park,Mission Hill,1
+52,Park,Beacon Hill,1
+53,Park,North End,2
